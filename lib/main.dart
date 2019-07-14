@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'NoToDo',
       home: new Home(),
+
     );
   }
 }
