@@ -11,6 +11,5 @@ class Home extends StatelessWidget {
       ),
       body: new NotoDoScreen(),
     );
-
   }
 }
